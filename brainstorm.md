@@ -23,4 +23,4 @@
 - grappling hook
 
 ### Gripping Narrative
-- 
+- chemistry-based game (magika type beat)
