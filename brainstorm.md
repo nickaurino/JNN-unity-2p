@@ -8,6 +8,8 @@
 
 ### Player Roles
 - Idea 1: Electicy control + metal bending
+    - Have metal person control metal with mouse. Lighting person, hit space to turn into lightning
+    - Lightning person, can't stay lightning for too long without metal or reverting. Water instant death
 - Idea 2: heavy and light
 - Idea 3: merging into something more powerful but controls get split up (octodad vibes)
 - 
